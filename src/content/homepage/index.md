@@ -5,7 +5,7 @@ banner:
   image: /images/halo.png
   button:
     label: "Live Chat"
-    link: "https://wa.me/"
+    link: "https://direct.lc.chat/17658891/"
     enable: true
 
 # feature
