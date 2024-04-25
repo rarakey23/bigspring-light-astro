@@ -33,7 +33,7 @@ services:
     button:
       enable: true
       label: Check it out
-      link: /contact
+      link: "https://www.devilteam.org/"
 
  
 
