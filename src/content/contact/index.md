@@ -2,11 +2,11 @@
 title: "Contact Us"
 draft: false
 info: 
-  title: Why you should contact us!
-  description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit recusandae voluptates doloremque veniam temporibus porro culpa ipsa, nisi soluta minima saepe laboriosam debitis nesciunt.
+  title: Hubungi kami!
+  description: Pengaduan proses cepat tanggap tanpa hambatan dan memudahkan penggunaan nasabah.
   contacts: 
-    - "phone: +88 125 256 452"
-    - "Mail: [info@bigspring.com](mailto:info@bigspring.com)"
-    - "Address: 360 Main rd, Rio, Brazil"
+    - "WA: +62 838 9202 7112"
+    - "Mail: [info@devilteamvip.com](mailto:info@devilteamvip.com)"
+    - "Address: Jakarta Barat"
 ---
 
