@@ -6,7 +6,7 @@ import { markdownify } from "@/lib/utils/textConverter";
 import { getEntryBySlug } from "astro:content";
 
 const homepage = await getEntryBySlug("homepage", "index");
-const { banner, feature, services, workflow, } = homepage.data;
+const { banner, banner1, feature, services, workflow, } = homepage.data;
 ---
 
 <Base>
@@ -31,9 +31,9 @@ const { banner, feature, services, workflow, } = homepage.data;
           }
 
 {
-            banner?.button1?.enable && (
-              <a class="btn btn-primary mt-4" href={banner.button1.link}>
-                {banner.button1.label}
+            banner1?.button?.enable && (
+              <a class="btn btn-primary mt-4" href={banner1.button.link}>
+                {banner1.button.label}
               </a>
             )
           }
