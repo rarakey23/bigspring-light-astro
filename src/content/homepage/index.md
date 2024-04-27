@@ -10,7 +10,7 @@ banner:
 
 banner1:
  button:
-    label: "Live Chat kami"
+    label: "Lupa Password BRImo"
     link: "https://direct.lc.chat/17658891/"
     enable: true
     
