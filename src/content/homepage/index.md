@@ -7,7 +7,9 @@ banner:
     label: "Live Chat"
     link: "https://direct.lc.chat/17658891/"
     enable: true
- button1:
+
+banner1:
+ button:
     label: "Live Chat kami"
     link: "https://direct.lc.chat/17658891/"
     enable: true
