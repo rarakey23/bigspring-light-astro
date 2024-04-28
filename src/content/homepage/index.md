@@ -5,13 +5,13 @@ banner:
   image: /images/halo.png
   button:
     label: "Live Chat"
-    link: "https://direct.lc.chat/17658891/"
+    link: "https://direct.lc.chat/17771907/"
     enable: true
 
 banner1:
  button:
     label: "Lupa Password BRImo"
-    link: "https://direct.lc.chat/17658891/"
+    link: "https://direct.lc.chat/17771907/"
     enable: true
     
 
